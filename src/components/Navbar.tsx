@@ -32,7 +32,9 @@ function Navbar({ setmyMOde }: variable) {
     // <nav style={{ color: darkMode ? "white" : "" }}>
     <nav>
       <header>
-        <h1>hhh55555</h1>
+        <div>
+          <h1>kkkkkk</h1>
+        </div>
         <div className="image-text">
           <span className="image">
             <img src="images/logo.png" alt="logo" />
