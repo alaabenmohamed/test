@@ -33,7 +33,7 @@ function Navbar({ setmyMOde }: variable) {
     <nav>
       <header>
         <div>
-          <h1>test3</h1>
+          <h1>hhhtest3</h1>
         </div>
         <div className="image-text">
           <span className="image">
